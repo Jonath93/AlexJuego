@@ -1,0 +1,23 @@
+# Archivos de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+obj/
+
+# Archivos de usuario
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
